@@ -6,5 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    skxdmcmdkcmdee
-    return 
+    a ='MIRONSHOH'
+    return a
+print(main())
+    
