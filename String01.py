@@ -5,7 +5,6 @@ def main():
     Returns:
         str: return answer.
     """
+    a ='mironsho'
     return a
-    a ='mironshoh'
-print(type(a))
-    
+print(main())
